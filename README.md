@@ -7,7 +7,7 @@ Prototipo de integración Hardware, Firmware y Software para la práctica del An
 ## Documentación y video
 - Documento: https://github.com/Thec17/Integracion_de_SI_Corte_2/blob/main/docs/Ing%20en%20inform%C3%A1tica_Informe%20Corte%202_Integraci%C3%B3n%20de%20SI_Enrique%20Molina_C%C3%B3digo%202343906.pdf
 - Video: `docs/architecture.mmd`: diagrama editable.
-- Matriz de pruebas: `https://github.com/Thec17/Integracion_de_SI_Corte_2/blob/main/docs/matriz_pruebas.md`
+- Matriz de pruebas: https://github.com/Thec17/Integracion_de_SI_Corte_2/blob/main/docs/matriz_pruebas.md
 
 ## Arquitectura
 
