@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: hsf-telemetry
+Version: 1.0.0
+Summary: Hardware, firmware and software integration prototype
+Requires-Python: >=3.10
+Requires-Dist: psutil>=5.9.0

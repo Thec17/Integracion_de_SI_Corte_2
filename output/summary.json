@@ -1,0 +1,19 @@
+{
+  "device_id": "SIM-001",
+  "messages_received": 12,
+  "valid_messages": 12,
+  "normal_messages": 11,
+  "anomalous_messages": 1,
+  "errors": 0,
+  "availability_percent": 100.0,
+  "validity_percent": 100.0,
+  "system": {
+    "os": "Windows",
+    "os_release": "10",
+    "python": "3.11.2",
+    "process_id": 19760,
+    "process_count": 317,
+    "memory_percent": 67.9,
+    "disk_free_mb": 55151.85
+  }
+}

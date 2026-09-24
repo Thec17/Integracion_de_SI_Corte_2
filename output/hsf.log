@@ -1,0 +1,31 @@
+2026-09-14 17:07:40,248 INFO integration_started port=58673
+2026-09-14 17:07:40,250 INFO device_connected address=('127.0.0.1', 58674)
+2026-09-14 17:07:40,270 INFO telemetry_accepted device=SIM-001 sequence=0 status=NORMAL
+2026-09-14 17:07:40,291 INFO telemetry_accepted device=SIM-001 sequence=1 status=NORMAL
+2026-09-14 17:07:40,311 INFO telemetry_accepted device=SIM-001 sequence=2 status=NORMAL
+2026-09-14 17:07:40,331 INFO telemetry_accepted device=SIM-001 sequence=3 status=ANOMALO
+2026-09-14 17:07:40,352 INFO telemetry_accepted device=SIM-001 sequence=4 status=NORMAL
+2026-09-14 17:07:40,372 INFO telemetry_accepted device=SIM-001 sequence=5 status=NORMAL
+2026-09-14 17:07:40,373 INFO integration_finished valid=6 errors=0
+2026-09-14 17:09:10,169 INFO integration_started port=56847
+2026-09-14 17:09:10,172 INFO device_connected address=('127.0.0.1', 56848)
+2026-09-14 17:09:10,172 INFO telemetry_accepted device=SIM-001 sequence=0 status=NORMAL
+2026-09-14 17:09:10,183 ERROR invalid_payload error=Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2026-09-14 17:09:10,194 INFO telemetry_accepted device=SIM-001 sequence=2 status=ANOMALO
+2026-09-14 17:09:10,204 INFO telemetry_accepted device=SIM-001 sequence=3 status=NORMAL
+2026-09-14 17:09:10,205 INFO integration_finished valid=3 errors=1
+2026-09-22 17:11:07,503 INFO integration_started port=59834
+2026-09-22 17:11:07,507 INFO device_connected address=('127.0.0.1', 59835)
+2026-09-22 17:11:07,507 INFO telemetry_accepted device=SIM-001 sequence=0 status=NORMAL
+2026-09-22 17:11:07,657 INFO telemetry_accepted device=SIM-001 sequence=1 status=NORMAL
+2026-09-22 17:11:07,808 INFO telemetry_accepted device=SIM-001 sequence=2 status=NORMAL
+2026-09-22 17:11:07,958 INFO telemetry_accepted device=SIM-001 sequence=3 status=NORMAL
+2026-09-22 17:11:08,109 INFO telemetry_accepted device=SIM-001 sequence=4 status=NORMAL
+2026-09-22 17:11:08,259 INFO telemetry_accepted device=SIM-001 sequence=5 status=NORMAL
+2026-09-22 17:11:08,410 INFO telemetry_accepted device=SIM-001 sequence=6 status=ANOMALO
+2026-09-22 17:11:08,561 INFO telemetry_accepted device=SIM-001 sequence=7 status=NORMAL
+2026-09-22 17:11:08,711 INFO telemetry_accepted device=SIM-001 sequence=8 status=NORMAL
+2026-09-22 17:11:08,862 INFO telemetry_accepted device=SIM-001 sequence=9 status=NORMAL
+2026-09-22 17:11:09,012 INFO telemetry_accepted device=SIM-001 sequence=10 status=NORMAL
+2026-09-22 17:11:09,162 INFO telemetry_accepted device=SIM-001 sequence=11 status=NORMAL
+2026-09-22 17:11:09,165 INFO integration_finished valid=12 errors=0
