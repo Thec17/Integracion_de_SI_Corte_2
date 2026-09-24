@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hsf-telemetry"
+version = "1.0.0"
+description = "Hardware, firmware and software integration prototype"
+requires-python = ">=3.10"
+dependencies = ["psutil>=5.9.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
