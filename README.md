@@ -1,8 +1,8 @@
 # Integración_de_SI_Corte_2
 Autor: Enrique Molina. Actividad: Solución al taller del segundo corte del espacio académico Integración de Sistemas de Información respecto a la integración de Hardware, Software y Firmware
 
-# Actividad de integración HSF
-Prototipo de integración Hardware, Firmware y Software para la práctica del Anexo N. 3. Funciona sin dispositivos físicos: `simulator.py` emula un dispositivo que publica telemetría JSON por TCP y `app.py` recibe, valida, clasifica, almacena y reporta los datos.
+## Actividad de integración HSF
+Prototipo de integración Hardware, Firmware y Software para la práctica del Anexo N. 3 de la ruta de aprendizaje. Funciona sin dispositivos físicos: `simulator.py` emula un dispositivo que publica telemetría JSON por TCP y `app.py` recibe, valida, clasifica, almacena y reporta los datos.
 
 ## Documentación y video
 - Documento: `docs/`
