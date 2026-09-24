@@ -5,7 +5,7 @@ Autor: Enrique Molina. Actividad: Solución al taller del segundo corte del espa
 Prototipo de integración Hardware, Firmware y Software para la práctica del Anexo N. 3 de la ruta de aprendizaje. Funciona sin dispositivos físicos: `simulator.py` emula un dispositivo que publica telemetría JSON por TCP y `app.py` recibe, valida, clasifica, almacena y reporta los datos.
 
 ## Documentación y video
-- Documento: `/docs/Ing%20en%20inform%C3%A1tica_Informe%20Corte%202_Integraci%C3%B3n%20de%20SI_Enrique%20Molina_C%C3%B3digo%202343906.pdf`
+- Documento: https://github.com/Thec17/Integracion_de_SI_Corte_2/blob/main/docs/Ing%20en%20inform%C3%A1tica_Informe%20Corte%202_Integraci%C3%B3n%20de%20SI_Enrique%20Molina_C%C3%B3digo%202343906.pdf
 - Video: `docs/architecture.mmd`: diagrama editable.
 - Matriz de pruebas: `docs/matriz_pruebas.md`
 
